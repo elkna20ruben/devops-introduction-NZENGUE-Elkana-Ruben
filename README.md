@@ -12,9 +12,8 @@ DevOps est une culture, un ensemble de pratiques et d'outils qui permettent de :
 ## Surveiller et maintenir les systèmes en production.
 
 ## Commandes Git utilisées
-* `git init` : Initialiser le dépôt local.
+
 * `git add` : Indexer les fichiers modifiés.
-* `git commit` : Enregistrer les modifications dans l'historique.
-* `git remote add` : Lier le dépôt local au dépôt distant GitHub.
-* `git branch -M` : Renommer la branche principale en 'main'.
-* `git push` : Envoyer les fichiers vers GitHub.
+* `git commit
+*  git statuts
+* `git push` 
